@@ -1,0 +1,7 @@
+{
+  "name": "2d-top-down-character-controller",
+  "version": "0.0.0",
+  "dependencies": {
+    "com.unity.inputsystem": "1.8.1"
+  }
+}
